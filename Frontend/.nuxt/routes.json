@@ -1,0 +1,23 @@
+[
+  {
+    "name": "contributor",
+    "path": "/contributor",
+    "component": "C:\\\\Users\\\\softsuave\\\\Desktop\\\\vue-assignment-front\\\\pages\\\\contributor.vue",
+    "chunkName": "pages/contributor",
+    "_name": "_d74d4b9c"
+  },
+  {
+    "name": "normal",
+    "path": "/normal",
+    "component": "C:\\\\Users\\\\softsuave\\\\Desktop\\\\vue-assignment-front\\\\pages\\\\normal.vue",
+    "chunkName": "pages/normal",
+    "_name": "_625ce740"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\softsuave\\\\Desktop\\\\vue-assignment-front\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_d259ac2e"
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "ContributorView": {
+    "description": "Auto imported from components/ContributorView.vue"
+  },
+  "DownloadImage": {
+    "description": "Auto imported from components/DownloadImage.vue"
+  },
+  "HomePage": {
+    "description": "Auto imported from components/HomePage.vue"
+  },
+  "NavBar": {
+    "description": "Auto imported from components/NavBar.vue"
+  },
+  "NormalUserView": {
+    "description": "Auto imported from components/NormalUserView.vue"
+  },
+  "Pagination": {
+    "description": "Auto imported from components/Pagination.vue"
+  }
+}
